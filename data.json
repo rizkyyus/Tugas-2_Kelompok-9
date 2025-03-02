@@ -4,5 +4,65 @@
     "genre": "Comedy",
     "episodes": "100",
     "rating": 10
+  },
+  {
+    "title": "Attack on Titan",
+    "genre": "Action",
+    "episodes": "87",
+    "rating": 9
+  },
+  {
+    "title": "One Piece",
+    "genre": "Adventure",
+    "episodes": "1000",
+    "rating": 9
+  },
+  {
+    "title": "Naruto",
+    "genre": "Action",
+    "episodes": "720",
+    "rating": 8
+  },
+  {
+    "title": "Death Note",
+    "genre": "Thriller",
+    "episodes": "37",
+    "rating": 9
+  },
+  {
+    "title": "Sword Art Online",
+    "genre": "Fantasy",
+    "episodes": "96",
+    "rating": 7
+  },
+  {
+    "title": "Tokyo Revengers",
+    "genre": "Action",
+    "episodes": "37",
+    "rating": 6
+  },
+  {
+    "title": "Boruto",
+    "genre": "Action",
+    "episodes": "293",
+    "rating": 5
+  },
+  {
+    "title": "Ex-Arm",
+    "genre": "Sci-Fi",
+    "episodes": "12",
+    "rating": 3
+  },
+  {
+    "title": "Pupa",
+    "genre": "Horror",
+    "episodes": "12",
+    "rating": 2
+  },
+  {
+    "title": "Abunai Sisters",
+    "genre": "Comedy",
+    "episodes": "10",
+    "rating": 1
   }
 ]
